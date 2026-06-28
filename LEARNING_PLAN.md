@@ -19,11 +19,11 @@
 | Lesson 5 | 函数进阶 | 5 | ✅ |
 | Lesson 6 | 文件操作 & 异常处理 | 5 | ✅ |
 | Lesson 7 | 面向对象 OOP | 5 | ✅ |
-| Lesson 8 | 模块 & 标准库 | 6 | ⬜ |
+| Lesson 8 | 模块 & 标准库 | 6 | ✅ |
 | Lesson 9 | 高级特性（选修） | 4 | ⬜ |
 | 毕业项目 | 运维自动化综合项目 | 1 | ⬜ |
 
-**总计：44 个文件 | 已完成：32 个 | 进度：73%**
+**总计：44 个文件 | 已完成：32 个 | 进度：*82%***
 
 ---
 
@@ -127,7 +127,7 @@
 
 ---
 
-## Lesson 8 · 模块 & 标准库 ⬜
+## Lesson 8 · 模块 & 标准库 ✅
 
 路径：`lesson_8_模块与标准库/`
 
@@ -135,12 +135,12 @@
 
 | 文件 | 说明 | 重点 | 状态 |
 |------|------|------|------|
-| `module_system.py` | import 机制、__name__、包结构、__all__、相对导入、模块搜索路径 sys.path | ★ | ⬜ |
-| `os_module.py` | os.path、os.listdir/walk、os.makedirs、os.environ、os.getcwd、shutil | ★★ | ⬜ |
-| `subprocess_module.py` | subprocess.run/Popen、捕获输出、管道、超时控制、shell=True 的安全陷阱 | ★★ | ⬜ |
-| `logging_module.py` | logging 基础配置、日志级别、FileHandler、RotatingFileHandler、格式化 | ★★ | ⬜ |
-| `datetime_module.py` | datetime/date/timedelta、时间戳互转、时区 pytz、格式化 strftime/strptime | ★ | ⬜ |
-| `third_party.py` | pip 与虚拟环境、requirements.txt、requests 库 HTTP 请求简介 | ★ | ⬜ |
+| `module_system.py` | import 机制、__name__、包结构、__all__、相对导入、模块搜索路径 sys.path | ★ | ✅ |
+| `os_module.py` | os.path、os.listdir/walk、os.makedirs、os.environ、os.getcwd、shutil | ★★ | ✅ |
+| `subprocess_module.py` | subprocess.run/Popen、捕获输出、管道、超时控制、shell=True 的安全陷阱 | ★★ | ✅ |
+| `logging_module.py` | logging 基础配置、日志级别、FileHandler、RotatingFileHandler、格式化 | ★★ | ✅ |
+| `datetime_module.py` | datetime/date/timedelta、时间戳互转、时区 pytz、格式化 strftime/strptime | ★ | ✅ |
+| `third_party.py` | pip 与虚拟环境、requirements.txt、requests 库 HTTP 请求简介 | ★ | ✅ |
 
 ---
 
@@ -163,7 +163,7 @@
 
 | 文件 | 说明 | 状态 |
 |------|------|------|
-| `server_inspector.py` | **服务器巡检工具**：综合运用所有 Lesson 知识点。功能包括：读取配置文件（Lesson 6）、SSH 连接执行命令（subprocess/paramiko，Lesson 8）、解析输出（正则+字符串，Lesson 2）、数据汇总到字典/列表（Lesson 3）、面向对象封装 ServerInfo 类（Lesson 7）、写入日志（logging，Lesson 8）、生成巡检报告（JSON/CSV，Lesson 6） | ⬜ |
+| `server_inspector.py` | **服务器巡检工具**：综合运用所有 Lesson 知识点。功能包括：读取配置文件（Lesson 6）、SSH 连接执行命令（subprocess/paramiko，Lesson 8）、解析输出（正则+字符串，Lesson 2）、数据汇总到字典/列表（Lesson 3）、面向对象封装 ServerInfo 类（Lesson 7）、写入日志（logging，Lesson 8）、生成巡检报告（JSON/CSV，Lesson 6） | ✅ |
 
 ---
 
