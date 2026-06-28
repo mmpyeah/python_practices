@@ -2,7 +2,7 @@
 
 > 课程来源：马士兵教育 Python 运维自动化
 > 项目路径：D:\PythonProjects\Project1
-> 更新时间：2024-06-27
+> 更新时间：2024-06-28
 >
 > 进度图例：✅ 已完成   🔄 进行中   ⬜ 待生成
 
@@ -14,8 +14,8 @@
 |--------|------|--------|------|
 | Lesson 1 | Python 基础入门 | 1 | ✅ |
 | Lesson 2 | 字符串 | 6 | ✅ |
-| Lesson 3 | 数据结构 | 6 | ⬜ |
-| Lesson 4 | 控制流 | 4 | ⬜ |
+| Lesson 3 | 数据结构 | 6 | ✅ |
+| Lesson 4 | 控制流 | 4 | ✅ |
 | Lesson 5 | 函数进阶 | 5 | ⬜ |
 | Lesson 6 | 文件操作 & 异常处理 | 5 | ⬜ |
 | Lesson 7 | 面向对象 OOP | 6 | ⬜ |
@@ -23,7 +23,7 @@
 | Lesson 9 | 高级特性（选修） | 4 | ⬜ |
 | 毕业项目 | 运维自动化综合项目 | 1 | ⬜ |
 
-**总计：44 个文件**
+**总计：44 个文件 | 已完成：17 个 | 进度：39%**
 
 ---
 
@@ -52,7 +52,7 @@
 
 ---
 
-## Lesson 3 · 数据结构 ⬜
+## Lesson 3 · 数据结构 ✅
 
 路径：`lesson_3_数据结构/`
 
@@ -60,25 +60,25 @@
 
 | 文件 | 说明 | 重点 | 状态 |
 |------|------|------|------|
-| `list_basic.py` | 列表创建、增删改查、append/extend/insert/remove/pop、index/count、sort/reverse | ★★ | ⬜ |
-| `list_advanced.py` | 列表推导式、嵌套列表、zip/enumerate/sorted/map/filter、二维表操作 | ★★ | ⬜ |
-| `tuple_basic.py` | 元组创建、不可变性、解包赋值、*args收集、具名元组 namedtuple | ★ | ⬜ |
-| `dict_basic.py` | 字典创建、增删改查、get/setdefault、keys/values/items、dict推导式、合并 | ★★ | ⬜ |
-| `set_basic.py` | 集合创建、去重、交集/并集/差集/对称差、frozenset、集合推导式 | ★ | ⬜ |
-| `collections_module.py` | Counter词频统计、defaultdict、OrderedDict、deque双端队列、ChainMap | ★★ | ⬜ |
+| `list_basic.py` | 列表创建、增删改查、append/extend/insert/remove/pop、index/count、sort/reverse | ★★ | ✅ |
+| `list_advanced.py` | 列表推导式、嵌套列表、zip/enumerate/sorted/map/filter、二维表操作 | ★★ | ✅ |
+| `tuple_basic.py` | 元组创建、不可变性、解包赋值、*args收集、具名元组 namedtuple | ★ | ✅ |
+| `dict_basic.py` | 字典创建、增删改查、get/setdefault、keys/values/items、dict推导式、合并 | ★★ | ✅ |
+| `set_basic.py` | 集合创建、去重、交集/并集/差集/对称差、frozenset、集合推导式 | ★ | ✅ |
+| `collections_module.py` | Counter词频统计、defaultdict、OrderedDict、deque双端队列、ChainMap | ★★ | ✅ |
 
 ---
 
-## Lesson 4 · 控制流 ⬜
+## Lesson 4 · 控制流 ✅
 
 路径：`lesson_4_控制流/`
 
 | 文件 | 说明 | 重点 | 状态 |
 |------|------|------|------|
-| `if_else.py` | if/elif/else、三元表达式、match-case（Python 3.10+）、真值判断陷阱 | ★ | ⬜ |
-| `for_loop.py` | for 遍历、enumerate、zip、range、循环 else、列表推导式嵌套、break/continue | ★★ | ⬜ |
-| `while_loop.py` | while 循环、while else、无限循环 + break、循环控制实战（菜单、重试） | ★ | ⬜ |
-| `comprehension.py` | 列表/字典/集合/生成器推导式、条件过滤、嵌套推导式、性能对比 | ★★ | ⬜ |
+| `if_else.py` | if/elif/else、三元表达式、match-case（Python 3.10+）、真值判断陷阱 | ★ | ✅ |
+| `for_loop.py` | for 遍历、enumerate、zip、range、循环 else、break/continue、日志扫描实战 | ★★ | ✅ |
+| `while_loop.py` | while 循环、while else、无限循环 + break、重试机制、轮询场景 | ★ | ✅ |
+| `comprehension.py` | 列表/字典/集合/生成器推导式、条件过滤、嵌套推导式、性能对比 | ★★ | ✅ |
 
 ---
 
