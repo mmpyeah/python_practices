@@ -18,12 +18,12 @@
 | Lesson 4 | 控制流 | 4 | ✅ |
 | Lesson 5 | 函数进阶 | 5 | ✅ |
 | Lesson 6 | 文件操作 & 异常处理 | 5 | ✅ |
-| Lesson 7 | 面向对象 OOP | 6 | ⬜ |
+| Lesson 7 | 面向对象 OOP | 5 | ✅ |
 | Lesson 8 | 模块 & 标准库 | 6 | ⬜ |
 | Lesson 9 | 高级特性（选修） | 4 | ⬜ |
 | 毕业项目 | 运维自动化综合项目 | 1 | ⬜ |
 
-**总计：44 个文件 | 已完成：27 个 | 进度：61%**
+**总计：44 个文件 | 已完成：32 个 | 进度：73%**
 
 ---
 
@@ -118,12 +118,12 @@
 
 | 文件 | 说明 | 重点 | 状态 |
 |------|------|------|------|
-| `class_basic.py` | class 定义、__init__、self、实例属性 vs 类属性、实例方法 | ★★ | ⬜ |
-| `class_inherit.py` | 继承、super()、方法重写、多继承、MRO 顺序、mixin 模式 | ★★ | ⬜ |
-| `class_magic.py` | 魔术方法：__str__/__repr__/__len__/__eq__/__lt__/__add__/__contains__ | ★★ | ⬜ |
-| `class_property.py` | @property 属性装饰器、@classmethod、@staticmethod、__slots__ 内存优化 | ★ | ⬜ |
+| `class_basic.py` | class 定义、__init__、self、实例属性 vs 类属性、实例方法 | ★★ | ✅ |
+| `class_inherit.py` | 继承、super()、方法重写、多继承、MRO 顺序、mixin 模式 | ★★ | ✅ |
+| `class_magic.py` | 魔术方法：__str__/__repr__/__len__/__eq__/__lt__/__add__/__contains__ | ★★ | ✅ |
+| `class_property.py` | @property 属性装饰器、@classmethod、@staticmethod、__slots__ 内存优化 | ★ | ✅ |
 | `class_dataclass.py` | dataclass 简化类定义、field、__post_init__、frozen 不可变类 | ★ | ⬜ |
-| `class_design.py` | 综合实战：设计一个服务器信息类（含继承、属性、魔术方法、序列化） | ★★ | ⬜ |
+| `class_design.py` | 综合实战：设计一个服务器信息类（含继承、属性、魔术方法、序列化） | ★★ | ✅ |
 
 ---
 
