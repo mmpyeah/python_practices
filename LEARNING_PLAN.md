@@ -17,13 +17,13 @@
 | Lesson 3 | 数据结构 | 6 | ✅ |
 | Lesson 4 | 控制流 | 4 | ✅ |
 | Lesson 5 | 函数进阶 | 5 | ✅ |
-| Lesson 6 | 文件操作 & 异常处理 | 5 | ⬜ |
+| Lesson 6 | 文件操作 & 异常处理 | 5 | ✅ |
 | Lesson 7 | 面向对象 OOP | 6 | ⬜ |
 | Lesson 8 | 模块 & 标准库 | 6 | ⬜ |
 | Lesson 9 | 高级特性（选修） | 4 | ⬜ |
 | 毕业项目 | 运维自动化综合项目 | 1 | ⬜ |
 
-**总计：44 个文件 | 已完成：22 个 | 进度：50%**
+**总计：44 个文件 | 已完成：27 个 | 进度：61%**
 
 ---
 
@@ -96,17 +96,17 @@
 
 ---
 
-## Lesson 6 · 文件操作 & 异常处理 ⬜
+## Lesson 6 · 文件操作 & 异常处理 ✅
 
 路径：`lesson_6_文件与异常/`
 
 | 文件 | 说明 | 重点 | 状态 |
 |------|------|------|------|
-| `file_read_write.py` | open 模式、read/readline/readlines、write/writelines、with 上下文管理器 | ★★ | ⬜ |
-| `file_path.py` | pathlib.Path 路径操作、os.path、文件遍历、glob 通配符、目录树 | ★★ | ⬜ |
-| `file_format.py` | JSON 读写、CSV 读写（csv 模块 + DictReader）、ini 配置文件（configparser） | ★★ | ⬜ |
-| `exception_basic.py` | try/except/else/finally、捕获多个异常、异常链 raise from、自定义异常类 | ★★ | ⬜ |
-| `exception_advanced.py` | 上下文管理器 contextlib、with 自定义协议、资源安全释放实战 | ★ | ⬜ |
+| `file_read_write.py` | open 模式、read/readline/readlines、write/writelines、with 上下文管理器 | ★★ | ✅ |
+| `file_path.py` | pathlib.Path 路径操作、os.path、文件遍历、glob 通配符、目录树 | ★★ | ✅ |
+| `file_format.py` | JSON 读写、CSV 读写（csv 模块 + DictReader）、ini 配置文件（configparser） | ★★ | ✅ |
+| `exception_basic.py` | try/except/else/finally、捕获多个异常、异常链 raise from、自定义异常类 | ★★ | ✅ |
+| `exception_advanced.py` | 上下文管理器 contextlib、with 自定义协议、资源安全释放实战 | ★ | ✅ |
 
 ---
 
