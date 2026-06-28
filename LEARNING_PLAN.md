@@ -16,14 +16,14 @@
 | Lesson 2 | 字符串 | 6 | ✅ |
 | Lesson 3 | 数据结构 | 6 | ✅ |
 | Lesson 4 | 控制流 | 4 | ✅ |
-| Lesson 5 | 函数进阶 | 5 | ⬜ |
+| Lesson 5 | 函数进阶 | 5 | ✅ |
 | Lesson 6 | 文件操作 & 异常处理 | 5 | ⬜ |
 | Lesson 7 | 面向对象 OOP | 6 | ⬜ |
 | Lesson 8 | 模块 & 标准库 | 6 | ⬜ |
 | Lesson 9 | 高级特性（选修） | 4 | ⬜ |
 | 毕业项目 | 运维自动化综合项目 | 1 | ⬜ |
 
-**总计：44 个文件 | 已完成：17 个 | 进度：39%**
+**总计：44 个文件 | 已完成：22 个 | 进度：50%**
 
 ---
 
@@ -82,17 +82,17 @@
 
 ---
 
-## Lesson 5 · 函数进阶 ⬜
+## Lesson 5 · 函数进阶 ✅
 
 路径：`lesson_5_函数进阶/`
 
 | 文件 | 说明 | 重点 | 状态 |
 |------|------|------|------|
-| `func_args.py` | 位置参数、默认参数、*args、**kwargs、关键字限定参数、参数解包 | ★★ | ⬜ |
-| `func_lambda.py` | lambda 匿名函数、map/filter/reduce 配合 lambda、sorted key 用法 | ★ | ⬜ |
-| `func_decorator.py` | 装饰器原理、@wraps、带参数的装饰器、计时器/日志/权限校验装饰器实战 | ★★ | ⬜ |
-| `func_generator.py` | yield 生成器、生成器表达式、send/throw/close、itertools 模块 | ★★ | ⬜ |
-| `func_closure.py` | 闭包原理、nonlocal、工厂函数、闭包 vs 全局变量、实战计数器 | ★ | ⬜ |
+| `func_args.py` | 位置参数、默认参数、*args、**kwargs、参数解包 | ★★ | ✅ |
+| `func_lambda.py` | lambda 匿名函数、map/filter/reduce 配合 lambda、sorted key 用法 | ★ | ✅ |
+| `func_decorator.py` | 装饰器原理、@wraps、带参数的装饰器、计时器/日志/权限校验装饰器实战 | ★★ | ✅ |
+| `func_generator.py` | yield 生成器、生成器表达式、send/throw/close、itertools 模块 | ★★ | ✅ |
+| `func_closure.py` | 闭包原理、nonlocal、工厂函数、闭包 vs 全局变量、实战计数器 | ★ | ✅ |
 
 ---
 
